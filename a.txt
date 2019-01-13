@@ -4,3 +4,4 @@ Add a sentence again
 Add a sentence too
 changed in master
 Insert a sentence
+add a sentence
